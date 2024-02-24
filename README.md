@@ -1,1 +1,1 @@
-# go-crub-app
+# go-crud-app
